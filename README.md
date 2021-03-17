@@ -13,8 +13,9 @@ REQUIREMENTS:
 
 SETUP:
 * 1 . retype your settings in the script (website url, discord token, discord webhook)
-* 2 . download webdriver for your chrome version
-* 3 . rename your webdriver to 'chromedriver.exe' and move it to the same folder that you have your script in
-* 4 . setup your discord server and add your bot
-* 5 . add webhook to your channel that u want to get notified in
-* 6 . start your script
+* 2 . download all python libraris via pip
+* 3 . download webdriver for your chrome version
+* 4 . rename your webdriver to 'chromedriver.exe' and move it to the same folder that you have your script in
+* 5 . setup your discord server and add your bot
+* 6 . add webhook to your channel that u want to get notified in
+* 7 . start your script
