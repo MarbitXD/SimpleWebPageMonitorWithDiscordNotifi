@@ -1,3 +1,6 @@
+#Made by MarbitXD
+#Posted on Github : https://github.com/MarbitXD/SimpleWebPageMonitorWithDiscordNotifi
+
 import discord
 import asyncio
 from discord.ext import commands, tasks
